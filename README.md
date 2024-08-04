@@ -21,7 +21,7 @@ As a highly skilled and innovative full stack and Web3 developer, I bring a uniq
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/vitorgultzgoff">
+<a href="https://github.com/hotman727">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hotman727&show_icons=true&theme=algolia&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hotman727&layout=compact&langs_count=8&theme=algolia"/>
 </a>
