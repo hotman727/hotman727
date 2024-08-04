@@ -9,14 +9,14 @@ I'm **Pavlo Ronaldo**, Full Stack and Web3 Developer.
 As a highly skilled and innovative full stack and Web3 developer, I bring a unique combination of technical expertise and passion for building cutting-edge applications that transform the way people interact with the internet. With a strong foundation in computer science and a keen interest in emerging technologies, I am well-equipped to design, develop, and deploy scalable, secure, and user-friendly applications that meet the needs of modern users.
 
 - 👨‍💻 I’m currently working at <img src="https://ucarecdn.com/974251ab-f294-4dfe-82f1-bff3d3b13649/faviconpotloc1.png" width="20" /> [Potloc](https://www.potloc.com/) facing exciting challenges using Ruby, Typescript & GraphqL
-- 🏡 Living in Montreal - 🇨🇦 Canada
-- 💬 Count me in chatting about 🖥️ tech, 🧑🏻‍🚀 astronomy, 🥋 jiu-jitsu, and 📊 financial
+- 🏡 Living in Poland
+- 💬 Count me in chatting about 🖥️ tech, 🧑🏻‍🚀 blockchain, 🥋 Full stack, and 📊 Developing
 - 📖 I’m currently learning Rust & Go
 - 😍 I love refactors & the process of redefining the design system for a scalable one
 - ⌨️ Always enthusiastic about split keyboards, currently using [ZSA Moonlander Mark I](https://www.zsa.io/moonlander/)
 - ⚡ Technologies: Ruby, SQL, TypeScript, JavaScript, React, Node, Java, React Native, HTML, CSS
-- 🌐 Languages: 🇺🇸 English and 🇧🇷 Portuguese
-- ✍🏻 Learning languages: 🇫🇷 French and 🇰🇷 Korean
+- 🌐 Languages: 🇺🇸 English and Chinese
+- ✍🏻 Learning languages: Arab and Chinese
 
 ### ⚙️ &nbsp;GitHub Analytics
 
