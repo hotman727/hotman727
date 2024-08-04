@@ -49,16 +49,16 @@ As a highly skilled and innovative full stack and Web3 developer, I bring a uniq
       <br>Rust
     </td>
     <td align="center" width="90">
-      <img src="./anchor.png" alt="Anchor" width="55" height="55" />
-      <br>Anchor
+      <img src="https://skillicons.dev/icons?i=electron" alt="Electron" width="55" height="55" />
+      <br>Electron
     </td>
     <td align="center" width="90">
-      <img src="./foundry.png" alt="icon" width="55" height="55" />
-      <br>Foundry
+      <img src="https://skillicons.dev/icons?i=ai" alt="icon" width="55" height="55" />
+      <br>Ai
     </td>
     <td align="center" width="90">
-      <img src="./hardhat.svg" alt="HardHat" width="55" height="55" />
-      <br>HardHat
+      <img src="php" alt="HardHat" width="55" height="55" />
+      <br>PHP
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=rails" width="45" height="45" alt="rails" />
