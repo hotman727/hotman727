@@ -57,7 +57,7 @@ As a highly skilled and innovative full stack and Web3 developer, I bring a uniq
       <br>Ai
     </td>
     <td align="center" width="90">
-      <img src="php" alt="HardHat" width="55" height="55" />
+      <img src="https://skillicons.dev/icons?i=php" alt="HardHat" width="55" height="55" />
       <br>PHP
     </td>
     <td align="center" width="90">
