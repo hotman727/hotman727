@@ -29,4 +29,4 @@ As a highly skilled and innovative full stack and Web3 developer, I bring a uniq
 
 ### 🤝🏻 &nbsp;Connect with me
 
-[![GMail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hotman727@gmail.com) [![X Badge](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/vitorgultzgoff)
+[![GMail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hotman727@gmail.com)
