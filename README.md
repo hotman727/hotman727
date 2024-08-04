@@ -4,7 +4,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-I'm **Vitor Gultzgoff**, software engineer who likes **creating user experiences** as much as **queries**.
+I'm **Pavlo Ronaldo**, Full Stack and Web3 Developer.
+
+As a highly skilled and innovative full stack and Web3 developer, I bring a unique combination of technical expertise and passion for building cutting-edge applications that transform the way people interact with the internet. With a strong foundation in computer science and a keen interest in emerging technologies, I am well-equipped to design, develop, and deploy scalable, secure, and user-friendly applications that meet the needs of modern users.
 
 - 👨‍💻 I’m currently working at <img src="https://ucarecdn.com/974251ab-f294-4dfe-82f1-bff3d3b13649/faviconpotloc1.png" width="20" /> [Potloc](https://www.potloc.com/) facing exciting challenges using Ruby, Typescript & GraphqL
 - 🏡 Living in Montreal - 🇨🇦 Canada
@@ -27,4 +29,4 @@ I'm **Vitor Gultzgoff**, software engineer who likes **creating user experiences
 
 ### 🤝🏻 &nbsp;Connect with me
 
-[![GMail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vlgultzgoff@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorgultzgoff/) [![X Badge](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/vitorgultzgoff)
+[![GMail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hotman727@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorgultzgoff/) [![X Badge](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/vitorgultzgoff)
