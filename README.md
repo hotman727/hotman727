@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-I'm **Pavlo Ronaldo**, Full Stack and Web3 Developer.
+I'm **Full Stack**, **Web3** and **AI** Developer.
 
 As a highly skilled and innovative full stack and Web3 developer, I bring a unique combination of technical expertise and passion for building cutting-edge applications that transform the way people interact with the internet. With a strong foundation in computer science and a keen interest in emerging technologies, I am well-equipped to design, develop, and deploy scalable, secure, and user-friendly applications that meet the needs of modern users.
 
